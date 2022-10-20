@@ -1,0 +1,15 @@
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.AssemblyInfo.cs
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\bin\Debug\net6.0\koleksiyonlar-soru-3.exe
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\bin\Debug\net6.0\koleksiyonlar-soru-3.deps.json
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\bin\Debug\net6.0\koleksiyonlar-soru-3.runtimeconfig.json
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\bin\Debug\net6.0\koleksiyonlar-soru-3.dll
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\bin\Debug\net6.0\koleksiyonlar-soru-3.pdb
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.dll
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\refint\koleksiyonlar-soru-3.dll
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.pdb
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\koleksiyonlar-soru-3.genruntimeconfig.cache
+C:\Users\batuh\Desktop\Batuhan\patika-csharp\koleksiyonlar-soru-3\obj\Debug\net6.0\ref\koleksiyonlar-soru-3.dll
